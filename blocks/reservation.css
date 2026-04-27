@@ -8,6 +8,7 @@
 }
 
 .reservation__title {
+  margin-top: 0;
   margin-bottom: 80px;
   text-align: center;
   font-size: 44px;
